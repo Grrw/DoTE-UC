@@ -1,4 +1,4 @@
-# Mac Version of the DoTE User Copier
+# Mac Version of the DoTE User Copier, now with options!
 
 while true; do
     read -p "y for replace Users, n for copy Users: " yn
