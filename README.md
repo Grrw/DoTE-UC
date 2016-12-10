@@ -16,3 +16,4 @@ You can also use this to cheat, but I don't care.
 * In the Windows folder, UCWindows deltes old Users-Copy and replaces it with a copy of Users
 * In the Windows folder, UC2UWindows deletes Users and replaces it with a copy of Users-Copy
 * In the macOS folder, UCmacOS returns a prompt asking if you want to copy Users, or replace Users
+* **Sometimes, when the files from 'Windows' are copied, they end up all on one line. You have to manually fix this by adding line breaks**
