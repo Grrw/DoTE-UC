@@ -1,5 +1,6 @@
 REM This is the working Windows version of the DoTE User Copier
 
+$ECHO OFF
 
 rmdir C:\Users\%USERNAME%\DOCUME~1\DUNGEO~1\USERS-~1 /S /Q
 
